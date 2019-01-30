@@ -153,4 +153,4 @@ async def on_message(message):
         print(msg+'\n')
 
 
-client.run('NTM5MjYwMTgyMjQ1NTM5ODQw.Dy_w0Q.DIH1pLfTyj7tE2Xo-GU-XtsjybY')
+client.run(token)

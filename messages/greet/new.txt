@@ -1,0 +1,39 @@
+Bienvenido user a Robota,
+te has unido como aspirante al servidor
+de Robota en Discord.
+
+Puedes revisar las reglas sobre el club
+en el canal de Reglamento en el servidor
+de Robota.
+
+Para unirte a una categoria:
+
+        Debes llenar el formulario en el club
+        y despues de haber sido procesada tu
+        solicitud, seras asignado a la categoria
+        que elegiste.
+
+Vinculacion de tus datos de discord con Robota
+
+        Por tu seguridad apenas envies el mensaje
+        este sera eliminado. Asegurate que lo
+        envies por uno de los canales de Robota.
+
+        Puedes ingresar el comando:
+            !login <Numero de matricula>
+
+            Por ejemplo:
+            !login 203506816
+
+        Una vez que identifiques tu matricula
+        se te daran tus beneficios del club si
+        eres miembro, y se te dara tu nombre 
+        completo dentro del servidor de Robota.
+
+        Si tus datos no estan vinculados a Robota
+        porfavor contacta a un miembro de Directiva
+        o asiste al club para verificar tus datos.
+
+IMPORTANTE:
+        Se te recuerda que si no vinculas tus
+        cuentas se te removera del servidor.

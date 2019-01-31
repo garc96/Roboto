@@ -1,0 +1,8 @@
+{
+    "name": "Roboto",
+    "version":"1.0.0",
+    "description" : "Beep,boop,beep",
+    "main": "bot.py",
+    "author": "Kevin Zhang",
+    "dependencies": {}
+}

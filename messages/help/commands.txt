@@ -1,0 +1,13 @@
+Los comandos que puedes usar dependiendo de
+tu nivel (Directiva/Lider/Miembro/Aspirante).
+
+Lider
+    
+    !crearCategoria <Nombre de la categoria>
+    -Permite crear la categoria deseada
+
+All
+
+    !login <matricula>
+    -Permite vincular tus datos de Discord
+    con los de la base de dato de Robota

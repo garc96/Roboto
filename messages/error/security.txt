@@ -1,0 +1,5 @@
+Error:
+    Por motivos de seguridad
+    el comando que has tratado
+    de usar ha sido bloqueado.
+    
